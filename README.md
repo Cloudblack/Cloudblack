@@ -34,7 +34,8 @@ class AboutMe:
                         please input ur company after this message :)")
             
         else :
-            return print(f"I'm already from {ksj.company} even u don't want anymore \n thank u for ur kind :)")
+            return print(f"\
+                        I'm already from {self.company} even u don't want anymore \n thank u for ur kind :)")
 
 
 
