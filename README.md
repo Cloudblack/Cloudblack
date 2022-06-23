@@ -31,11 +31,12 @@ class AboutMe:
                         Data skills {self.Data}                                                           \n \
                         Back_end skills {self.Back_end}                                                   \n \
                         ETC skills {self.ETC}                                                             \n \
-                        please input ur company after this message :)")
+                        please input ur company after this message :) ")
             
         else :
             return print(f"\
-                        I'm already from {self.company} even u don't want anymore \n thank u for ur kind :)")
+                        I'm already from {self.company} even u don't want anymore                        \n \ 
+                        thank u for ur kind :) ")
 
 
 
